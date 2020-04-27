@@ -44,5 +44,4 @@ arr = [1, 3, 20, 4, 1, 0]
 n = len(arr)
 print("Index of a peak point is", findPeak(arr, n))
 
-# This code is contributed by
-# Smitha Dinesh Semwal
+
